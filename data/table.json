@@ -84,6 +84,21 @@
     {
       "words": [
         {
+          "word": "fair",
+          "explanation": "To be <em>fair</em>, I expected you to know this."
+        },
+        {
+          "word": "fare",
+          "explanation": "How did you <em>fare</em> on the test?"
+        }
+      ],
+      "hint": {
+        "text": "She was <em>fair</em> enough to pay the <em>fare</em>."
+      }
+    },
+    {
+      "words": [
+        {
           "word": "Its",
           "explanation": "Bad grammar shall no longer rear <em>its</em> ugly head."
         },
@@ -107,6 +122,21 @@
           "explanation": "Using bad grammar is a social stigma, which makes you <em>lose</em> credibility."
         }
       ]
+    },
+    {
+      "words": [
+        {
+          "word": "Premier",
+          "explanation": "He was her <em>permier</em> source of gossip.</p>"
+        },
+        {
+          "word": "Premiere",
+          "explanation": "Being the star of the movie, she was expected to attend the  <em>premiere."
+        }
+      ],
+      "hint": {
+        "text": "A <em>premiere</em> is an event where a new concert or movie is shown for the first time. The adjective <em>premier</em> means best or foremost."
+      }
     },
     {
       "words": [
